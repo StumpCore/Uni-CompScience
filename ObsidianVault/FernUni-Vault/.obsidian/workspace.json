@@ -1,0 +1,265 @@
+{
+  "main": {
+    "id": "81f2b0c178fb6b44",
+    "type": "split",
+    "children": [
+      {
+        "id": "b130f7acd228e4e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd44fead0ccaf6d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grundlagen der Mathematik/! Mathe - Kurseinheit 7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13b5f4fff88c6bd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semantik.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1,
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53396176115f3b19",
+    "type": "split",
+    "children": [
+      {
+        "id": "b207e6c3a87f240a",
+        "type": "tabs",
+        "dimension": 85.58238636363636,
+        "children": [
+          {
+            "id": "2b63ea727d30a5c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f043024f81485eed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Junk",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "69db7ed57076cb0d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "1ce6d530acd5c076",
+        "type": "tabs",
+        "dimension": 14.417613636363635,
+        "children": [
+          {
+            "id": "b629645e88a32384",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 292.5
+  },
+  "right": {
+    "id": "996294a872804f0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "420a6d9347ec0eec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0913aa91c11dcc4c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Semantik.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d0ae30c6d324be05",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Semantik.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b922ca7516c625e5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Semantik.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "61c24d97073158dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fde2e7ca8bb04dd",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Semantik.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5480414366402606,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 387.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "13b5f4fff88c6bd2",
+  "lastOpenFiles": [
+    "Grundlagen der Mathematik/! Mathe - Kurseinheit 7.md",
+    "Semantik.md",
+    "Aussagenlogik.md",
+    "Aussagenlogische Formeln.md",
+    "Klammerersparnisregel.md",
+    "Images/Pasted image 20230804131152.png",
+    "Präzedenzregeln für Formeln der Logik.md",
+    "Atome.md",
+    "Grundlagen der Mathematik/Aussagen.md",
+    "Grundlagen der Mathematik/Logik.md",
+    "Grundlagen der Mathematik/! Mathe - Kurseinheit 6.md",
+    "Elementare Funktionen.md",
+    "Trigonometrische Funktionen.md",
+    "Konvergenz und Summenfunktion.md",
+    "Images/Pasted image 20230804103811.png",
+    "Images/Pasted image 20230804103801.png",
+    "Images/Pasted image 20230804103743.png",
+    "Images/Pasted image 20230804103735.png",
+    "Potenzreihe.md",
+    "Images/Pasted image 20230804103653.png",
+    "Images/Pasted image 20230804103640.png",
+    "Images/Pasted image 20230804103503.png",
+    "Images/Pasted image 20230804103449.png",
+    "Images/Pasted image 20230804103442.png",
+    "Absolute Konvergenz von Reihen.md",
+    "Konvergenzkriterien von Reihen.md",
+    "Alternierende Reihen.md",
+    "Quotienten- und Wurzelkriterium.md",
+    "Majorante Kriterium.md",
+    "Reihen.md",
+    "Folgerungen aus dem Satz von Taylor.md",
+    "Satz von Tylor.md",
+    "Taylorpolynome.md",
+    "Approximationen von Funktionen durch Polynomfunktionen.md",
+    "Regel von de l'Hospital.md",
+    "Mittelwertsatz.md",
+    "Git-Commands",
+    "Imperative Programmierung",
+    "Grundlagen der Mathematik",
+    "Templates",
+    "Papa/WhatsApp Chat - Bernd Schinschel /_chat.txt",
+    "Papa/WhatsApp Chat - Bernd Schinschel /00000279-AUDIO-2023-06-30-17-35-32.opus",
+    "Papa/WhatsApp Chat - Bernd Schinschel /00000277-AUDIO-2023-06-30-17-30-42.opus",
+    "Papa/WhatsApp Chat - Bernd Schinschel /00000269-Kim ❤️.vcf",
+    "Papa/WhatsApp Chat - Bernd Schinschel /00000260-AUDIO-2023-05-18-20-08-25.opus",
+    "Papa/WhatsApp Chat - Bernd Schinschel /00000214-GIF-2022-11-25-17-50-28.mp4",
+    "Unbenannt.canvas"
+  ]
+}

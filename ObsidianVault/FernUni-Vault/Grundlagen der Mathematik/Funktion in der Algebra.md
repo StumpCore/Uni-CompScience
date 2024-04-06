@@ -1,0 +1,3 @@
+Sei $D$ eine nicht leere Teilmenge von $\mathbb{R}$. Eine **Funktion** $f$ auf $D$ ist eine Abbildung $f :D \rightarrow \mathbb{R}$. Die Menge $$\{y \in \mathbb{R} \mid \textit{es gibt ein }x \in D \textit{ mit } f(x)=y\}$$ wird das **Bild** von $D$ unter $f$ genannt und mit $f(D)$ bezeichnet.
+
+Der **Graph** einer Funktion $f:D \rightarrow \mathbb{R}$ ist die Menge $$\{(x,f(x)) \mid x \in D\} \subseteq D \times \mathbb{R}$$ 
